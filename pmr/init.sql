@@ -161,3 +161,8 @@ create table order_details
 	updated_at timestamp without time zone default now()
 );
 
+
+ALTER DATABASE "agile-shop-db"
+SET TIMEZONE TO 'Asia/Tashkent';
+
+SET TIMEZONE TO 'UTC';

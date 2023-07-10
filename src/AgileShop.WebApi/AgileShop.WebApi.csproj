@@ -12,10 +12,14 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
     <Folder Include="Middlewares\" />
     <Folder Include="Filters\" />
     <Folder Include="Configurations\" />
+    <Folder Include="wwwroot\Media\Images\" />
+    <Folder Include="wwwroot\Media\Videos\" />
+    <Folder Include="wwwroot\Media\Audios\" />
+    <Folder Include="wwwroot\Media\Documents\" />
+    <Folder Include="wwwroot\Media\Avatars\" />
   </ItemGroup>
 
   <ItemGroup>
